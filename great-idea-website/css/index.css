@@ -64,3 +64,167 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*Webpage Design*/
+.container{
+	width:750px;
+	margin:0 auto;
+}
+
+/*navigation link*/
+.container header nav a {
+	margin: 10px 10px;
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+	margin-bottom: 20px;
+	  }
+
+/*Box for images in header section*/
+.box{
+	background: white;
+  margin: 40px;
+  color: black;
+  font-style: italic;
+  text-align: center;
+  padding-top: 40px;
+  box-sizing: border-box;
+  font-size: 50px;
+  } 
+  
+  /*Innovation on demand image*/
+  .box1{
+	  display:block;
+  }
+
+  .header{
+	display: inline-block;
+	margin-top: 70px;
+	
+}
+  /*round shaped image*/
+  .boximage{
+	  float: right;
+	  border-left: 20px;
+	  margin-top: -400px;
+  }
+
+  
+/*get started button*/
+.header button{
+	right: 10px;
+  }
+
+.button{
+	 display: block;
+	 font-size: 20px;
+	 font-style: normal;
+	 border: 5px solid black;
+	 border-width: 1px;
+	 text-align: center;
+
+	 background-color: white;
+  width: 170px;
+  padding: 10px;
+  margin: 20px;
+  
+	 
+}
+
+/*Features*/
+.box2{
+	width:  480px;
+	float:left;
+	border: 15px solid white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 450px;
+  }
+
+  .box2 h3{
+	border-top:1px solid black;
+	padding: 20px 0;
+	width: 500px;
+}
+ /*About*/ 
+.box3{
+	width: 450px;
+	float: right;
+  border: 15px solid white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 300px;
+}
+
+.box3 h3{
+	border-top:1px solid black;
+	padding: 20px 0;
+	width: 450px;
+}
+
+/*middle image*/
+.middle-img{
+	width: 950px;
+	float: right;
+  border: 15px solid white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 300px;
+	
+  
+}
+/*service*/
+.box4{
+	width: 310px;
+	float:left;
+  border: 15px solid white;
+  margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 450px;
+}
+
+/*product*/
+.box5{
+	width: 310px;
+	float: left;
+  border: 15px solid white;
+  margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 50px;
+  
+}
+
+/*vision*/
+.box6{
+	width: 290px;
+	float: right;
+	margin-top: 20px;
+   margin-bottom: 25px;
+   margin-right: 250px;
+}
+
+/*contact*/
+.box7{
+	width: 310px;
+	float:left;
+  border: 15px solid white;
+  margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 450px;
+   
+}
+
+.box7 h4{
+	border-top:1px solid black;
+	padding: 20px 0;
+	width: 960px;
+}
+
+/*footer*/
+.box8{
+	width: 290px;
+	float: left;;
+	margin-top: 250px;
+   margin-bottom: 20px;
+   margin-right: 250px;
+}
+
